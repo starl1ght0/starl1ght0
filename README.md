@@ -28,8 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=starl1ght0&show_icons=true&locale=en&layout=compact" alt="starl1ght0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starl1ght0&show_icons=true&locale=en" alt="starl1ght0" />
-</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starl1ght0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=starl1ght0&theme=dark)](https://git.io/streak-stats)
