@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Chess_2](https://github.com/KaVoshnik/Chess_2)
 
-- 🌱 I’m currently learning **NHTK**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **st4rl1ght0s@gmail.com**
 
