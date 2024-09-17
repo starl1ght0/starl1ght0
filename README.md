@@ -32,6 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=starl1ght0&show_icons=true&locale=en" alt="starl1ght0" />
 </p>
 
-<p align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=starl1ght0&theme=dark&background=000000)](https://git.io/streak-stats)
-</p>
